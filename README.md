@@ -1,15 +1,16 @@
-#Data Analysis Trial
+# Data Analysis Trial
 
 
 A Python-based solution for data analysis and categorizing data using text classification.
 
 
-#Features
+# Features
 Efficient handling and analysis of large datasets
 Text classification for categorizing data
 Support for various machine learning algorithms and techniques
 Ongoing updates and enhancements as new techniques are discovered and explored
-#Installation
+
+# Installation
 To install and set up the project, follow these steps:
 
 Clone the repository: git clone https://github.com/your-username/your-project.git
