@@ -7,8 +7,8 @@ A Python-based solution for data analysis and categorizing data using text class
 # Features
 Efficient handling and analysis of large datasets
 Text classification for categorizing data
-Support for various machine learning algorithms and techniques
-Ongoing updates and enhancements as new techniques are discovered and explored
+Support for various machine learning algorithms and techniques and will try to 
+ update and do enhancements as I discovere and explore new techniques.
 
 # Installation
 To install and set up the project, follow these steps:
